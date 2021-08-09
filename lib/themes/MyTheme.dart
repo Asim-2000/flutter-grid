@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class LightTheme {
+class MyTheme {
   static ThemeData lightTheme(BuildContext context) => ThemeData(
         primarySwatch: Colors.deepPurple,
         // fontFamily: GoogleFonts.lato().fontFamily,
