@@ -15,8 +15,6 @@ class HomeScreen extends StatelessWidget {
         },
       ),
       appBar: AppBar(
-        backgroundColor: Colors.purpleAccent,
-        centerTitle: true,
         title: Text(
           "Demo App",
         ),
